@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,cost_price
+1,Vertex Tent Elite,Sports,Outdoor,5759.78
+2,Prime Shampoo Max,Beauty,Haircare,573.45
+3,  Vertex  Tent  Everyday  ,Sports,Outdoor,2917.73
+4,Terra Bicycle Signature,Sports,Cycling,5922.56
+5,  Urban  Decor  Piece  Ultra  ,Home,Decor,5124.8
+6,Nova Organizer Elite,Home,Storage,2621.18
+7,Nova Novel Elite,Books,Fiction,142.92
+8,Pulse Camera Basic,Electronics,Cameras,26450.56
+9,Nimbus Cream Signature,Beauty,Skincare,871.66
+10,Urban Storybook Pro,Books,Children,744.99
+11,Orbit Cookware Everyday,Home,Kitchen,2132.4
+12,Orbit Comic Basic,Books,Comics,378.4
+13,Vibe Bedsheet Elite,Home,Bedding,608.45
+14,  Zenith  Lipstick  Elite  ,Beauty,Makeup,781.95
+15,Crest Shampoo Max,Beauty,Haircare,439.43
+16,Terra Decor Piece Premium,Home,Decor,1205.82
+17,Aero Cream Basic,Beauty,Skincare,1999.99
+18,Zenith Accessory Everyday,Clothing,Accessories,1853.44
+19,Aero Headphone Lite,Electronics,Headphones,15904.57
+20,Prime Guide Lite,Books,Non-Fiction,322.55
+21,Vertex Camera Basic,Electronics,Cameras,39858.75
+22,Crest Television Signature,Electronics,Televisions,17451.02
+23,Drift Dress Premium,Clothing,Women's Wear,2860.3
+24,Nova Shoe Essential,Clothing,Footwear,2560.61
+25,Aero Storybook Premium,Books,Children,271.88
+26,Vertex Outfit Ultra,Clothing,Kids Wear,799.95
+27,Nimbus Perfume Classic,Beauty,Fragrance,1306.98
+28,Drift Guide Plus,Books,Non-Fiction,193.49
+29,Terra Cookware Ultra,Home,Kitchen,4525.42
+30,Drift Television Basic,Electronics,Televisions,13399.79
+31,Nimbus Outfit Basic,Clothing,Kids Wear,1615.53
+32,Crest Shoe Pro,Clothing,Footwear,1478.12
+33,Vibe Chair Max,Home,Furniture,419.86
+34,Terra Television Elite,Electronics,Televisions,6881.9
+35,Lumen Bedsheet Lite,Home,Bedding,3859.06
+36,Zenith Tracker Pro,Sports,Fitness Gear,5051.04
+37,Zenith Bicycle Classic,Sports,Cycling,950.63
+38,Terra Shoe Signature,Clothing,Footwear,521.37
+39,Orbit Storybook Pro,Books,Children,551.54
+40,aero shampoo essential,Beauty,Haircare,677.35
+41,terra guide everyday,Books,Non-Fiction,135.5
+42,  Vibe  Tracker  Ultra  ,Sports,Fitness Gear,5890.98
+43,Crest Cookware Max,Home,Kitchen,5916.94
+44,Vertex Cream Signature,Beauty,Skincare,898.04
+45,Orbit Headphone Elite,Electronics,Headphones,8538.94
+46,Lumen Perfume Ultra,Beauty,Fragrance,2047.59
+47,VERTEX TELEVISION ULTRA,Electronics,Televisions,2736.24
+48,Crest Shirt Classic,Clothing,Men's Wear,3463.56
+49,Aero Bicycle Pro,Sports,Cycling,1348.84
+50,Drift Cookware Everyday,Home,Kitchen,1170.91
+51,Vibe Bedsheet Premium,Home,Bedding,7660.53
+52,Nimbus Chair Premium,Home,Furniture,7409.62
+53,Vertex Jersey Max,Sports,Team Sports,703.83
+54,Orbit Tent Classic,Sports,Outdoor,710.4
+55,Aero Lipstick Ultra,Beauty,Makeup,1122.68
+56,crest perfume ultra,Beauty,Fragrance,1575.64
+57,  Terra  Textbook  Pro  ,Books,Academic,377.92
+58,Nova Shampoo Lite,Beauty,Haircare,1727.41
+59,Urban Novel Max,Books,Fiction,609.03
+60,Pulse Bedsheet Pro,Home,Bedding,5496.68
+61,Nimbus Decor Piece Max,Home,Decor,4329.79
+62,Terra Textbook Classic,Books,Academic,173.03
+63,Nimbus Shampoo Basic,Beauty,Haircare,1448.01
+64,Lumen Decor Piece Ultra,Home,Decor,4972.64
+65,Prime Perfume Max,Beauty,Fragrance,277.72
+66,Zenith Shoe Everyday,Clothing,Footwear,3455.03
+67,Lumen Lipstick Max,Beauty,Makeup,796.87
+68,Lumen Chair Premium,Home,Furniture,5174.06
+69,Prime Organizer Max,Home,Storage,6378.11
+70,Nova Shoe Elite,Clothing,Footwear,1385.85
+71,  Pulse  Tent  Max  ,Sports,Outdoor,5997.67
+72,Orbit Perfume Essential,Beauty,Fragrance,2076.01
+73,  Crest  Laptop  Everyday  ,Electronics,Laptops,30860.82
+74,Drift Chair Basic,Home,Furniture,1619.31
+75,Orbit Shoe Pro,Clothing,Footwear,1885.64
+76,Urban Chair Elite,Home,Furniture,1958.67
+77,Drift Jersey Max,Sports,Team Sports,3901.58
+78,Urban Jersey Everyday,Sports,Team Sports,3317.5
+79,Pulse Tent Signature,Sports,Outdoor,4037.71
+80,  Drift  Lipstick  Signature  ,Beauty,Makeup,294.93
+81,Terra Lipstick Plus,Beauty,Makeup,1099.81
+82,Nimbus Cream Everyday,Beauty,Skincare,1640.58
+83,Prime Bedsheet Everyday,Home,Bedding,3737.64
+84,Urban Cream Ultra,Beauty,Skincare,1214.66
+85,Urban Organizer Elite,Home,Storage,2690.67
+86,Urban Bedsheet Elite,Home,Bedding,1028.23
+87,Zenith Shoe Classic,Clothing,Footwear,621.94
+88,Vibe Headphone Signature,Electronics,Headphones,43350.71
+89,Pulse Outfit Premium,Clothing,Kids Wear,2706.46
+90,Nimbus Storybook Ultra,Books,Children,487.84
+91,Orbit Watch Ultra,Electronics,Smart Watches,10309.38
+92,Nova Cookware Classic,Home,Kitchen,7082.25
+93,  Aero  Perfume  Basic  ,Beauty,Fragrance,1134.23
+94,Vertex Decor Piece Essential,Home,Decor,3324.54
+95,Crest Tent Basic,Sports,Outdoor,2471.51
+96,Aero Storybook Signature,Books,Children,177.43
+97,Crest Watch Elite,Electronics,Smart Watches,16959.8
+98,Pulse Dress Basic,Clothing,Women's Wear,284.85
+99,Lumen Laptop Elite,Electronics,Laptops,23754.51
+100,Orbit Accessory Lite,Clothing,Accessories,2203.78
+101,Pulse Shoe Premium,Clothing,Footwear,2138.98
+102,Lumen Bicycle Signature,Sports,Cycling,4940.56
+103,Terra Decor Piece Max,Home,Decor,4752.88
+104,Pulse Cream Ultra,Beauty,Skincare,1673.42
+105,Lumen Tent Pro,Sports,Outdoor,1230.44
+106,Urban Perfume Everyday,Beauty,Fragrance,1474.17
+107,Prime Cream Pro,Beauty,Skincare,1105.07
+108,Vibe Guide Basic,Books,Non-Fiction,834.83
+109,Lumen Cream Lite,Beauty,Skincare,1446.13
+110,Orbit Perfume Essential,Beauty,Fragrance,515.64
+111,Orbit Jersey Elite,Sports,Team Sports,5239.01
+112,Pulse Lipstick Ultra,Beauty,Makeup,691.65
+113,Prime Jersey Classic,Sports,Team Sports,4303.18
+114,Crest Perfume Ultra,Beauty,Fragrance,2340.88
+115,Aero Lipstick Max,Beauty,Makeup,1403.66
+116,Vertex Textbook Lite,Books,Academic,315.86
+117,Crest Cream Ultra,Beauty,Skincare,1893.61
+118,Drift Dress Basic,Clothing,Women's Wear,2032.76
+119,Zenith Chair Signature,Home,Furniture,2066.4
+120,Orbit Television Plus,Electronics,Televisions,3120.11
+121,LUMEN TEXTBOOK ULTRA,Books,Academic,84.25
+122,Vibe Tent Everyday,Sports,Outdoor,5300.8
+123,Vertex Guide Classic,Books,Non-Fiction,609.64
+124,Pulse Television Plus,Electronics,Televisions,32761.8
+125,Vibe Laptop Lite,Electronics,Laptops,2406.22
+126,Urban Comic Premium,Books,Comics,839.35
+127,Aero Phone Signature,Electronics,Mobile Phones,41837.7
+128,Nimbus Decor Piece Everyday,Home,Decor,4052.52
+129,Nimbus Accessory Classic,Clothing,Accessories,527.37
+130,Terra Shoe Classic,Clothing,Footwear,197.18
+131,Pulse Decor Piece Everyday,Home,Decor,1568.86
+132,Drift Perfume Essential,Beauty,Fragrance,308.17
+133,Urban Cream Lite,Beauty,Skincare,2345.98
+134,Vibe Headphone Plus,Electronics,Headphones,12601.15
+135,Pulse Decor Piece Premium,Home,Decor,2240.11
+136,nova chair everyday,Home,Furniture,1445.79
+137,Lumen Lipstick Max,Beauty,Makeup,2357.53
+138,Prime Organizer Plus,Home,Storage,3929.82
+139,Crest Storybook Essential,Books,Children,828.49
+140,Vertex Tent Plus,Sports,Outdoor,3675.93
+141,Nimbus Camera Basic,Electronics,Cameras,4252.14
+142,Nova Tracker Basic,Sports,Fitness Gear,1412.4
+143,Urban Tent Elite,Sports,Outdoor,2790.58
+144,Lumen Shampoo Signature,Beauty,Haircare,2257.33
+145,Nimbus Novel Lite,Books,Fiction,454.57
+146,Nimbus Camera Everyday,Electronics,Cameras,32768.98
+147,Drift Textbook Pro,Books,Academic,554.22
+148,  Crest  Watch  Premium  ,Electronics,Smart Watches,42108.56
+149,Nova Watch Classic,Electronics,Smart Watches,34788.57
+150,Crest Perfume Essential,Beauty,Fragrance,2301.08
+151,Zenith Comic Everyday,Books,Comics,797.13
+152,Zenith Outfit Lite,Clothing,Kids Wear,1466.75
+153,Drift Dress Pro,Clothing,Women's Wear,3427.94
+154,Vibe Storybook Basic,Books,Children,268.32
+155,Urban Textbook Classic,Books,Academic,797.67
+156,Vertex Phone Everyday,Electronics,Mobile Phones,34659.56
+157,  Prime  Laptop  Max  ,Electronics,Laptops,20532.7
+158,  Prime  Cream  Premium  ,Beauty,Skincare,662.41
+159,Urban Shirt Basic,Clothing,Men's Wear,934.44
+160,Pulse Lipstick Signature,Beauty,Makeup,2064.12
+161,Urban Outfit Everyday,Clothing,Kids Wear,1535.43
+162,Orbit Cookware Signature,Home,Kitchen,7310.31
+163,orbit perfume ultra,Beauty,Fragrance,2359.81
+164,Vertex Perfume Basic,Beauty,Fragrance,1099.18
+165,Vibe Outfit Lite,Clothing,Kids Wear,1736.29
+166,Drift Outfit Premium,Clothing,Kids Wear,1701.13
+167,Vibe Camera Essential,Electronics,Cameras,6726.9
+168,Prime Outfit Elite,Clothing,Kids Wear,3239.46
+169,Orbit Cookware Premium,Home,Kitchen,601.99
+170,Pulse Storybook Pro,Books,Children,234.29
+171,Nimbus Tent Plus,Sports,Outdoor,2164.54
+172,  Prime  Laptop  Premium  ,Electronics,Laptops,41218.31
+173,Vibe Shampoo Plus,Beauty,Haircare,1961.23
+174,Orbit Comic Everyday,Books,Comics,294.48
+175,Nimbus Bicycle Max,Sports,Cycling,4403.88
+176,Crest Chair Elite,Home,Furniture,4587.69
+177,Nova Dress Classic,Clothing,Women's Wear,2106.51
+178,Aero Perfume Lite,Beauty,Fragrance,652.04
+179,Nimbus Tent Basic,Sports,Outdoor,4187.87
+180,Lumen Bedsheet Everyday,Home,Bedding,3794.47
+181,Urban Lipstick Lite,Beauty,Makeup,1271.96
+182,Orbit Tracker Pro,Sports,Fitness Gear,677.4
+183,Vertex Cream Pro,Beauty,Skincare,2122.11
+184,  Lumen  Shirt  Lite  ,Clothing,Men's Wear,1400.22
+185,  Terra  Bicycle  Ultra  ,Sports,Cycling,318.14
+186,  Orbit  Jersey  Classic  ,Sports,Team Sports,4885.46
+187,Zenith Shirt Basic,Clothing,Men's Wear,792.97
+188,Drift Jersey Elite,Sports,Team Sports,2532.15
+189,Nimbus Bedsheet Signature,Home,Bedding,5638.44
+190,Terra Cookware Everyday,Home,Kitchen,929.3
+191,  Orbit  Comic  Ultra  ,Books,Comics,656.33
+192,Drift Watch Essential,Electronics,Smart Watches,15442.16
+193,Nova Camera Plus,Electronics,Cameras,39170.77
+194,Aero Bicycle Pro,Sports,Cycling,4185.47
+195,pulse organizer everyday,Home,Storage,322.13
+196,Urban Accessory Premium,Clothing,Accessories,3261.73
+197,Pulse Chair Plus,Home,Furniture,6825.65
+198,Vibe Lipstick Premium,Beauty,Makeup,2472.35
+199,Orbit Cream Premium,Beauty,Skincare,228.87
+200,Drift Guide Max,Books,Non-Fiction,710.58
+201,vertex bicycle elite,Sports,Cycling,4755.4
+202,Prime Comic Elite,Books,Comics,387.85
+203,terra accessory essential,Clothing,Accessories,2823.48
+204,Zenith Cream Classic,Beauty,Skincare,1808.03
+205,Lumen Shampoo Essential,Beauty,Haircare,355.72
+206,Nimbus Headphone Elite,Electronics,Headphones,5318.63
+207,Vibe Laptop Ultra,Electronics,Laptops,23449.89
+208,Zenith Phone Elite,Electronics,Mobile Phones,27184.07
+209,Nova Bedsheet Classic,Home,Bedding,6277.52
+210,Pulse Shampoo Basic,Beauty,Haircare,1013.76
+211,Aero Outfit Classic,Clothing,Kids Wear,361.94
+212,Vibe Textbook Classic,Books,Academic,143.08
+213,Lumen Chair Everyday,Home,Furniture,5010.02
+214,  Urban  Novel  Classic  ,Books,Fiction,352.42
+215,Vertex Bicycle Elite,Sports,Cycling,2726.04
+216,Aero Shampoo Elite,Beauty,Haircare,1768.7
+217,Urban Textbook Essential,Books,Academic,318.99
+218,Pulse Perfume Plus,Beauty,Fragrance,772.72
+219,Zenith Textbook Signature,Books,Academic,897.76
+220,Nova Accessory Premium,Clothing,Accessories,2523.03
+221,  Drift  Textbook  Premium  ,Books,Academic,631.84
+222,Prime Outfit Classic,Clothing,Kids Wear,2546.04
+223,Nimbus Novel Signature,Books,Fiction,408.66
+224,Orbit Bicycle Pro,Sports,Cycling,2317.29
+225,Zenith Tracker Plus,Sports,Fitness Gear,2291.3
+226,Pulse Cream Everyday,Beauty,Skincare,1059.08
+227,ZENITH BEDSHEET PRO,Home,Bedding,4183.27
+228,Nimbus Tent Elite,Sports,Outdoor,4690.97
+229,Crest Tent Pro,Sports,Outdoor,1948.74
+230,Drift Phone Premium,Electronics,Mobile Phones,14585.55
+231,Orbit Guide Ultra,Books,Non-Fiction,160.05
+232,Crest Perfume Max,Beauty,Fragrance,2044.45
+233,Drift Phone Elite,Electronics,Mobile Phones,30729.56
+234,Orbit Dress Lite,Clothing,Women's Wear,1258.82
+235,Prime Comic Essential,Books,Comics,232.84
+236,Vibe Perfume Pro,Beauty,Fragrance,2219.43
+237,VIBE STORYBOOK ESSENTIAL,Books,Children,248.74
+238,Pulse Cream Max,Beauty,Skincare,1388.53
+239,  Prime  Decor  Piece  Ultra  ,Home,Decor,4316.18
+240,Pulse Lipstick Essential,Beauty,Makeup,1508.81
+241,Drift Decor Piece Ultra,Home,Decor,6547.16
+242,PULSE LIPSTICK SIGNATURE,Beauty,Makeup,851.65
+243,Zenith Outfit Lite,Clothing,Kids Wear,623.55
+244,Pulse Comic Lite,Books,Comics,426.89
+245,Lumen Storybook Everyday,Books,Children,222.05
+246,Aero Shoe Lite,Clothing,Footwear,2970.65
+247,Drift Tracker Elite,Sports,Fitness Gear,3036.5
+248,Orbit Shoe Basic,Clothing,Footwear,1520.6
+249,Lumen Comic Ultra,Books,Comics,147.79
+250,Aero Laptop Pro,Electronics,Laptops,24562.3
+251,Pulse Shoe Premium,Clothing,Footwear,1809.3
+252,Pulse Tracker Max,Sports,Fitness Gear,3372.86
+253,Drift Organizer Pro,Home,Storage,3642.66
+254,Zenith Shoe Premium,Clothing,Footwear,2667.01
+255,Nimbus Cookware Classic,Home,Kitchen,6570.48
+256,Vertex Novel Plus,Books,Fiction,684.84
+257,Drift Lipstick Premium,Beauty,Makeup,1127.6
+258,Vertex Tent Plus,Sports,Outdoor,4881.28
+259,Orbit Jersey Classic,Sports,Team Sports,1218.17
+260,Aero Lipstick Signature,Beauty,Makeup,2159.24
+261,Urban Cream Essential,Beauty,Skincare,2481.97
+262,Lumen Shampoo Lite,Beauty,Haircare,1807.35
+263,Nimbus Shoe Lite,Clothing,Footwear,1050.2
+264,Nimbus Comic Max,Books,Comics,801.7
+265,Orbit Watch Premium,Electronics,Smart Watches,42186.06
+266,Nimbus Bedsheet Elite,Home,Bedding,6977.48
+267,Lumen Cream Ultra,Beauty,Skincare,1773.49
+268,Vibe Camera Plus,Electronics,Cameras,37258.27
+269,Crest Textbook Classic,Books,Academic,553.91
+270,Vertex Bicycle Elite,Sports,Cycling,4632.96
+271,TERRA PHONE ULTRA,Electronics,Mobile Phones,20304.84
+272,Prime Watch Premium,Electronics,Smart Watches,39790.93
+273,drift chair classic,Home,Furniture,2153.04
+274,Nova Chair Essential,Home,Furniture,5862.71
+275,Terra Shoe Max,Clothing,Footwear,153.64
+276,Urban Novel Signature,Books,Fiction,637.59
+277,Lumen Phone Elite,Electronics,Mobile Phones,44476.45
+278,Nimbus Guide Max,Books,Non-Fiction,153.25
+279,Crest Phone Elite,Electronics,Mobile Phones,6861.11
+280,Zenith Dress Basic,Clothing,Women's Wear,2194.57
+281,Crest Shoe Premium,Clothing,Footwear,2656.7
+282,Terra Storybook Ultra,Books,Children,151.08
+283,Vertex Laptop Max,Electronics,Laptops,17774.21
+284,Vertex Textbook Lite,Books,Academic,608.59
+285,Pulse Accessory Signature,Clothing,Accessories,1104.48
+286,Drift Cream Everyday,Beauty,Skincare,593.07
+287,Lumen Tent Essential,Sports,Outdoor,563.77
+288,Vibe Shoe Max,Clothing,Footwear,2287.58
+289,Nova Camera Elite,Electronics,Cameras,6633.64
+290,Crest Bicycle Basic,Sports,Cycling,4635.67
+291,PULSE PHONE MAX,Electronics,Mobile Phones,2560.35
+292,Orbit Watch Classic,Electronics,Smart Watches,22946.36
+293,LUMEN COMIC ESSENTIAL,Books,Comics,307.52
+294,Orbit Cookware Plus,Home,Kitchen,1411.94
+295,Pulse Bedsheet Everyday,Home,Bedding,5268.75
+296,Aero Cream Premium,Beauty,Skincare,2388.23
+297,Prime Shirt Max,Clothing,Men's Wear,538.56
+298,Aero Tracker Everyday,Sports,Fitness Gear,4508.78
+299,Lumen Phone Lite,Electronics,Mobile Phones,8041.4
+300,Orbit Organizer Premium,Home,Storage,3100.58
+301,Lumen Lipstick Max,Beauty,Makeup,170.46
+302,Orbit Textbook Max,Books,Academic,879.54
+303,Nimbus Cream Ultra,Beauty,Skincare,233.05
+304,Crest Tent Lite,Sports,Outdoor,841.7
+305,Prime Tracker Premium,Sports,Fitness Gear,503.22
+306,Nova Laptop Ultra,Electronics,Laptops,41474.01
+307,Orbit Shirt Premium,Clothing,Men's Wear,1554.89
+308,Vibe Chair Premium,Home,Furniture,6642.78
+309,Zenith Jersey Basic,Sports,Team Sports,552.86
+310,  Nova  Accessory  Essential  ,Clothing,Accessories,3051.21
+311,Zenith Decor Piece Basic,Home,Decor,3077.57
+312,Vertex Organizer Classic,Home,Storage,2092.16
+313,Nimbus Organizer Plus,Home,Storage,4463.16
+314,nova dress essential,Clothing,Women's Wear,2280.41
+315,Crest Cream Pro,Beauty,Skincare,1003.06
+316,Zenith Lipstick Plus,Beauty,Makeup,671.6
+317,Urban Novel Premium,Books,Fiction,116.0
+318,Vibe Accessory Premium,Clothing,Accessories,1685.83
+319,Pulse Cream Max,Beauty,Skincare,1629.32
+320,PULSE NOVEL SIGNATURE,Books,Fiction,274.15
+321,Vertex Decor Piece Essential,Home,Decor,5935.75
+322,AERO BEDSHEET PLUS,Home,Bedding,1261.67
+323,Urban Tracker Max,Sports,Fitness Gear,2929.82
+324,Orbit Novel Elite,Books,Fiction,250.26
+325,aero bedsheet max,Home,Bedding,6645.82
+326,Prime Cream Elite,Beauty,Skincare,1806.78
+327,Orbit Bedsheet Pro,Home,Bedding,2229.3
+328,Vibe Shirt Ultra,Clothing,Men's Wear,1992.9
+329,Zenith Watch Lite,Electronics,Smart Watches,3525.78
+330,Prime Dress Essential,Clothing,Women's Wear,2261.5
+331,Pulse Cream Signature,Beauty,Skincare,2050.59
+332,Prime Phone Everyday,Electronics,Mobile Phones,6492.59
+333,  Nova  Cookware  Ultra  ,Home,Kitchen,6609.15
+334,Nova Comic Essential,Books,Comics,221.7
+335,Aero Dress Classic,Clothing,Women's Wear,647.92
+336,Terra Tent Classic,Sports,Outdoor,5325.98
+337,Zenith Novel Classic,Books,Fiction,423.77
+338,Terra Shampoo Basic,Beauty,Haircare,2474.57
+339,Nimbus Lipstick Basic,Beauty,Makeup,925.68
+340,Vibe Jersey Classic,Sports,Team Sports,2083.55
+341,  Vertex  Shirt  Classic  ,Clothing,Men's Wear,1923.6
+342,Urban Tent Max,Sports,Outdoor,1636.63
+343,Vertex Tracker Plus,Sports,Fitness Gear,5900.32
+344,Drift Textbook Lite,Books,Academic,565.87
+345,Pulse Lipstick Pro,Beauty,Makeup,944.04
+346,Pulse Tent Plus,Sports,Outdoor,4909.81
+347,Aero Storybook Lite,Books,Children,154.01
+348,Prime Accessory Pro,Clothing,Accessories,152.29
+349,Vertex Tent Lite,Sports,Outdoor,1270.39
+350,Nova Cookware Lite,Home,Kitchen,7354.35
+351,Drift Camera Elite,Electronics,Cameras,17312.71
+352,Pulse Perfume Max,Beauty,Fragrance,874.25
+353,Vertex Shoe Everyday,Clothing,Footwear,2324.75
+354,Lumen Accessory Signature,Clothing,Accessories,897.84
+355,Vibe Tent Classic,Sports,Outdoor,1943.47
+356,Lumen Shirt Signature,Clothing,Men's Wear,3480.85
+357,Urban Tracker Signature,Sports,Fitness Gear,4900.64
+358,  Terra  Tent  Signature  ,Sports,Outdoor,1058.7
+359,Prime Cream Elite,Beauty,Skincare,502.93
+360,Terra Television Everyday,Electronics,Televisions,15640.13
+361,Prime Headphone Plus,Electronics,Headphones,16291.27
+362,Nova Television Pro,Electronics,Televisions,33180.23
+363,Nimbus Shoe Essential,Clothing,Footwear,1407.41
+364,Terra Storybook Everyday,Books,Children,450.06
+365,Nova Headphone Elite,Electronics,Headphones,5428.85
+366,Vibe Chair Lite,Home,Furniture,4466.96
+367,Pulse Headphone Signature,Electronics,Headphones,31939.11
+368,Pulse Guide Essential,Books,Non-Fiction,163.03
+369,Vibe Dress Premium,Clothing,Women's Wear,3250.67
+370,Terra Jersey Classic,Sports,Team Sports,801.52
+371,Orbit Storybook Ultra,Books,Children,375.88
+372,Aero Novel Everyday,Books,Fiction,473.87
+373,Prime Phone Lite,Electronics,Mobile Phones,43985.95
+374,Aero Novel Essential,Books,Fiction,813.8
+375,Terra Cookware Basic,Home,Kitchen,3093.96
+376,  Urban  Textbook  Ultra  ,Books,Academic,461.35
+377,Pulse Outfit Pro,Clothing,Kids Wear,2483.18
+378,Terra Phone Elite,Electronics,Mobile Phones,19098.21
+379,Orbit Tent Pro,Sports,Outdoor,4955.83
+380,Terra Storybook Ultra,Books,Children,273.23
+381,VIBE COOKWARE PREMIUM,Home,Kitchen,1138.2
+382,Urban Guide Plus,Books,Non-Fiction,183.47
+383,Terra Novel Essential,Books,Fiction,754.5
+384,Aero Accessory Elite,Clothing,Accessories,3212.48
+385,Vibe Phone Basic,Electronics,Mobile Phones,15214.8
+386,Nimbus Organizer Pro,Home,Storage,5059.85
+387,Zenith Bicycle Essential,Sports,Cycling,3507.92
+388,Zenith Tracker Signature,Sports,Fitness Gear,4768.04
+389,Vibe Jersey Classic,Sports,Team Sports,3042.11
+390,Nova Bicycle Lite,Sports,Cycling,1077.15
+391,Nova Bicycle Essential,Sports,Cycling,2156.09
+392,Lumen Shirt Ultra,Clothing,Men's Wear,3155.06
+393,Drift Headphone Classic,Electronics,Headphones,38053.82
+394,Drift Cream Plus,Beauty,Skincare,2438.13
+395,Aero Textbook Premium,Books,Academic,609.35
+396,Prime Shoe Essential,Clothing,Footwear,2694.3
+397,  Orbit  Cookware  Lite  ,Home,Kitchen,1258.07
+398,Urban Tracker Plus,Sports,Fitness Gear,1404.18
+399,nova laptop ultra,Electronics,Laptops,31944.82
+400,Drift Decor Piece Ultra,Home,Decor,5156.2
+401,Nova Television Plus,Electronics,Televisions,27056.73
+402,Pulse Shoe Basic,Clothing,Footwear,697.77
+403,Aero Cookware Pro,Home,Kitchen,1470.68
+404,Drift Tent Plus,Sports,Outdoor,4146.75
+405,Orbit Bedsheet Pro,Home,Bedding,7743.68
+406,Nimbus Cream Lite,Beauty,Skincare,1542.74
+407,Aero Laptop Signature,Electronics,Laptops,14301.32
+408,Vibe Lipstick Essential,Beauty,Makeup,1201.6
+409,Aero Shoe Everyday,Clothing,Footwear,2239.08
+410,Nova Tracker Basic,Sports,Fitness Gear,5807.29
+411,Terra Organizer Signature,Home,Storage,2528.11
+412,Zenith Watch Elite,Electronics,Smart Watches,29114.29
+413,Terra Decor Piece Premium,Home,Decor,5281.44
+414,Orbit Dress Plus,Clothing,Women's Wear,2848.19
+415,Terra Bicycle Elite,Sports,Cycling,4397.38
+416,Aero Perfume Classic,Beauty,Fragrance,1071.04
+417,Pulse Cream Premium,Beauty,Skincare,2058.44
+418,Terra Chair Basic,Home,Furniture,3910.73
+419,Orbit Lipstick Classic,Beauty,Makeup,2117.53
+420,Aero Tent Max,Sports,Outdoor,4510.28
+421,Terra Shampoo Elite,Beauty,Haircare,633.41
+422,Vibe Outfit Elite,Clothing,Kids Wear,2111.66
+423,Nimbus Novel Pro,Books,Fiction,558.53
+424,Nimbus Tracker Plus,Sports,Fitness Gear,5238.11
+425,AERO STORYBOOK ESSENTIAL,Books,Children,192.64
+426,Vibe Outfit Signature,Clothing,Kids Wear,3455.28
+427,Drift Outfit Premium,Clothing,Kids Wear,420.72
+428,  Crest  Chair  Everyday  ,Home,Furniture,2333.52
+429,Vertex Accessory Lite,Clothing,Accessories,2707.96
+430,Pulse Laptop Essential,Electronics,Laptops,18629.99
+431,Nova Comic Pro,Books,Comics,679.14
+432,Vertex Headphone Basic,Electronics,Headphones,30712.27
+433,Prime Shampoo Premium,Beauty,Haircare,849.02
+434,Orbit Watch Signature,Electronics,Smart Watches,3685.69
+435,Aero Headphone Ultra,Electronics,Headphones,27159.55
+436,Terra Bedsheet Lite,Home,Bedding,7230.79
+437,URBAN CHAIR ESSENTIAL,Home,Furniture,5871.92
+438,Lumen Dress Pro,Clothing,Women's Wear,716.1
+439,Vibe Cookware Everyday,Home,Kitchen,4370.92
+440,  Nova  Camera  Everyday  ,Electronics,Cameras,2931.99
+441,Nimbus Watch Essential,Electronics,Smart Watches,11971.03
+442,Prime Shampoo Premium,Beauty,Haircare,122.33
+443,Terra Novel Basic,Books,Fiction,576.62
+444,Drift Shoe Max,Clothing,Footwear,2219.29
+445,Vertex Cookware Max,Home,Kitchen,4950.21
+446,Prime Organizer Elite,Home,Storage,2503.74
+447,Nimbus Camera Plus,Electronics,Cameras,22045.35
+448,  Nova  Shirt  Everyday  ,Clothing,Men's Wear,2948.03
+449,Urban Perfume Max,Beauty,Fragrance,280.12
+450,Aero Cream Everyday,Beauty,Skincare,2472.8
+451,NIMBUS DECOR PIECE PRO,Home,Decor,7018.3
+452,Vertex Decor Piece Everyday,Home,Decor,5960.61
+453,Nova Phone Lite,Electronics,Mobile Phones,8336.64
+454,Pulse Bedsheet Classic,Home,Bedding,925.02
+455,Zenith Chair Essential,Home,Furniture,3761.0
+456,Vertex Comic Essential,Books,Comics,733.47
+457,LUMEN LAPTOP PREMIUM,Electronics,Laptops,5384.12
+458,Vertex Bicycle Signature,Sports,Cycling,1292.25
+459,Pulse Textbook Pro,Books,Academic,801.56
+460,  Nimbus  Shampoo  Ultra  ,Beauty,Haircare,1157.65
+461,TERRA HEADPHONE ELITE,Electronics,Headphones,44022.98
+462,Orbit Lipstick Basic,Beauty,Makeup,1583.77
+463,Nimbus Guide Elite,Books,Non-Fiction,605.95
+464,PULSE ACCESSORY PRO,Clothing,Accessories,1843.65
+465,  Drift  Comic  Lite  ,Books,Comics,342.92
+466,Nova Decor Piece Basic,Home,Decor,5217.88
+467,Zenith Guide Ultra,Books,Non-Fiction,549.89
+468,  Nimbus  Watch  Elite  ,Electronics,Smart Watches,33739.56
+469,  Vibe  Phone  Essential  ,Electronics,Mobile Phones,37305.17
+470,Orbit Jersey Basic,Sports,Team Sports,4110.98
+471,Drift Decor Piece Pro,Home,Decor,6785.68
+472,Vertex Organizer Signature,Home,Storage,5789.93
+473,Zenith Bedsheet Max,Home,Bedding,1929.63
+474,Drift Decor Piece Everyday,Home,Decor,2477.47
+475,LUMEN JERSEY MAX,Sports,Team Sports,3081.43
+476,Zenith Perfume Classic,Beauty,Fragrance,550.1
+477,Nimbus Guide Plus,Books,Non-Fiction,168.37
+478,Terra Novel Everyday,Books,Fiction,713.16
+479,Terra Comic Signature,Books,Comics,190.4
+480,  Orbit  Novel  Premium  ,Books,Fiction,767.83
+481,Vertex Storybook Lite,Books,Children,222.39
+482,Vibe Shirt Everyday,Clothing,Men's Wear,3107.03
+483,Vibe Bicycle Signature,Sports,Cycling,4633.65
+484,Crest Bedsheet Classic,Home,Bedding,1240.3
+485,Lumen Storybook Premium,Books,Children,771.32
+486,Lumen Jersey Premium,Sports,Team Sports,3887.35
+487,Pulse Dress Premium,Clothing,Women's Wear,1306.73
+488,Lumen Shampoo Everyday,Beauty,Haircare,526.75
+489,Lumen Jersey Max,Sports,Team Sports,3483.11
+490,Terra Bicycle Premium,Sports,Cycling,3319.94
+491,ORBIT NOVEL MAX,Books,Fiction,123.51
+492,Aero Laptop Lite,Electronics,Laptops,31005.85
+493,Lumen Shirt Classic,Clothing,Men's Wear,1962.93
+494,Zenith Bedsheet Signature,Home,Bedding,5968.04
+495,Vibe Accessory Plus,Clothing,Accessories,2819.39
+496,  Lumen  Lipstick  Everyday  ,Beauty,Makeup,1030.13
+497,orbit lipstick pro,Beauty,Makeup,587.41
+498,Terra Guide Premium,Books,Non-Fiction,381.55
+499,Vertex Tent Premium,Sports,Outdoor,1941.52
+500,Urban Shirt Lite,Clothing,Men's Wear,549.84
+501,Aero Watch Basic,Electronics,Smart Watches,7913.06
+502,Crest Cookware Ultra,Home,Kitchen,1407.48
+503,Pulse Outfit Pro,Clothing,Kids Wear,2244.98
+504,Nimbus Lipstick Signature,Beauty,Makeup,274.91
+505,Orbit Lipstick Plus,Beauty,Makeup,1349.46
+506,Vibe Tent Basic,Sports,Outdoor,778.69
+507,Terra Dress Elite,Clothing,Women's Wear,1133.47
+508,orbit bicycle everyday,Sports,Cycling,2812.59
+509,Nova Shampoo Everyday,Beauty,Haircare,1015.29
+510,Aero Watch Basic,Electronics,Smart Watches,1891.99
+511,Orbit Jersey Basic,Sports,Team Sports,502.15
+512,  Crest  Shampoo  Basic  ,Beauty,Haircare,501.75
+513,Terra Tracker Max,Sports,Fitness Gear,3869.71
+514,Drift Shoe Max,Clothing,Footwear,2926.31
+515,Terra Perfume Max,Beauty,Fragrance,469.01
+516,NOVA TEXTBOOK MAX,Books,Academic,731.26
+517,Pulse Tracker Plus,Sports,Fitness Gear,2593.89
+518,  Vibe  Comic  Elite  ,Books,Comics,518.56
+519,Vertex Cream Premium,Beauty,Skincare,1782.12
+520,Orbit Headphone Max,Electronics,Headphones,31115.84
+521,Aero Tracker Ultra,Sports,Fitness Gear,4977.2
+522,Urban Watch Basic,Electronics,Smart Watches,33806.52
+523,Terra Jersey Lite,Sports,Team Sports,5350.12
+524,Nova Lipstick Basic,Beauty,Makeup,439.3
+525,Pulse Phone Signature,Electronics,Mobile Phones,25000.62
+526,Prime Headphone Premium,Electronics,Headphones,32886.43
+527,Terra Shoe Basic,Clothing,Footwear,766.38
+528,Prime Jersey Max,Sports,Team Sports,4848.05
+529,Nimbus Camera Everyday,Electronics,Cameras,13646.85
+530,Zenith Headphone Plus,Electronics,Headphones,22333.82
+531,Urban Decor Piece Everyday,Home,Decor,980.35
+532,Prime Tracker Elite,Sports,Fitness Gear,2137.99
+533,Lumen Lipstick Signature,Beauty,Makeup,1460.47
+534,Urban Bedsheet Pro,Home,Bedding,6328.15
+535,Aero Perfume Elite,Beauty,Fragrance,1859.13
+536,Nimbus Comic Elite,Books,Comics,479.32
+537,terra laptop signature,Electronics,Laptops,38755.14
+538,Prime Accessory Classic,Clothing,Accessories,2249.17
+539,Nova Cream Basic,Beauty,Skincare,2050.34
+540,Vertex Bicycle Signature,Sports,Cycling,460.77
+541,Orbit Organizer Ultra,Home,Storage,1359.34
+542,Vertex Guide Signature,Books,Non-Fiction,318.62
+543,Orbit Storybook Max,Books,Children,491.78
+544,Drift Shampoo Signature,Beauty,Haircare,1917.29
+545,Urban Shoe Lite,Clothing,Footwear,2045.47
+546,Crest Shoe Pro,Clothing,Footwear,1783.6
+547,CREST HEADPHONE PLUS,Electronics,Headphones,23690.53
+548,Nimbus Bedsheet Ultra,Home,Bedding,511.26
+549,Zenith Lipstick Premium,Beauty,Makeup,1620.56
+550,Pulse Decor Piece Basic,Home,Decor,3137.94
+551,Pulse Textbook Everyday,Books,Academic,143.83
+552,Prime Bedsheet Basic,Home,Bedding,6574.45
+553,Vertex Bedsheet Ultra,Home,Bedding,251.46
+554,urban shoe plus,Clothing,Footwear,858.58
+555,Crest Dress Signature,Clothing,Women's Wear,546.41
+556,Vertex Shoe Elite,Clothing,Footwear,1763.08
+557,Prime Comic Signature,Books,Comics,763.36
+558,Nova Laptop Lite,Electronics,Laptops,7921.91
+559,pulse cream lite,Beauty,Skincare,2313.87
+560,Pulse Bicycle Signature,Sports,Cycling,5301.43
+561,Zenith Lipstick Plus,Beauty,Makeup,2482.66
+562,Prime Guide Essential,Books,Non-Fiction,731.59
+563,Terra Accessory Basic,Clothing,Accessories,2576.03
+564,  Pulse  Bedsheet  Signature  ,Home,Bedding,3206.6
+565,Prime Phone Basic,Electronics,Mobile Phones,23092.69
+566,Pulse Guide Max,Books,Non-Fiction,819.32
+567,Vertex Tracker Basic,Sports,Fitness Gear,925.72
+568,Pulse Guide Basic,Books,Non-Fiction,815.51
+569,Orbit Perfume Essential,Beauty,Fragrance,204.25
+570,Prime Bicycle Ultra,Sports,Cycling,2442.11
+571,Vibe Tracker Lite,Sports,Fitness Gear,4653.69
+572,Pulse Headphone Basic,Electronics,Headphones,9154.73
+573,  Pulse  Cream  Basic  ,Beauty,Skincare,1000.07
+574,  Vibe  Outfit  Elite  ,Clothing,Kids Wear,2332.78
+575,Drift Decor Piece Basic,Home,Decor,3052.02
+576,Vertex Bedsheet Plus,Home,Bedding,6313.55
+577,Crest Guide Basic,Books,Non-Fiction,288.1
+578,Crest Organizer Premium,Home,Storage,1276.93
+579,Lumen Cream Plus,Beauty,Skincare,1778.35
+580,Prime Shirt Basic,Clothing,Men's Wear,1283.77
+581,Urban Tracker Essential,Sports,Fitness Gear,280.42
+582,Nimbus Laptop Signature,Electronics,Laptops,3632.36
+583,  Zenith  Outfit  Signature  ,Clothing,Kids Wear,3267.79
+584,Terra Storybook Basic,Books,Children,870.09
+585,Terra Laptop Ultra,Electronics,Laptops,9715.46
+586,Prime Lipstick Pro,Beauty,Makeup,1325.31
+587,Pulse Shampoo Lite,Beauty,Haircare,963.38
+588,Urban Cream Max,Beauty,Skincare,1971.21
+589,Vibe Bedsheet Signature,Home,Bedding,319.86
+590,Zenith Cream Basic,Beauty,Skincare,2091.44
+591,Crest Jersey Classic,Sports,Team Sports,5787.58
+592,Pulse Comic Pro,Books,Comics,413.85
+593,Zenith Camera Basic,Electronics,Cameras,42658.08
+594,Orbit Jersey Signature,Sports,Team Sports,2795.92
+595,Nimbus Storybook Plus,Books,Children,868.22
+596,Pulse Comic Pro,Books,Comics,291.41
+597,Terra Guide Premium,Books,Non-Fiction,338.9
+598,Orbit Organizer Pro,Home,Storage,2254.13
+599,Vibe Cookware Everyday,Home,Kitchen,2867.54
+600,Nimbus Tent Elite,Sports,Outdoor,5392.32

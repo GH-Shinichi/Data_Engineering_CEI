@@ -1,0 +1,24 @@
+DATA QUALITY REPORT
+============================================================
+
+ORDERS
+  - Rows with wrong date format (DD-MM-YYYY), reformatted : 113
+  - Rows with unparseable order_date remaining            : 0
+  - Future-dated orders flagged (is_future_dated=True)    : 5
+  - Rows with missing customer_id (flagged, not dropped)  : 119
+
+PRODUCTS
+  - Product names normalized (spacing/casing)             : 79
+
+CUSTOMERS
+  - Invalid emails found                                  : 14
+  - Affected customer_ids                                 : [51, 55, 135, 145, 148, 238, 239, 280, 297, 316, 384, 438, 563, 580]
+
+ORDER_ITEMS
+  - Orphaned rows (order_id not in orders.csv)            : 8
+    item_ids: [4692, 4693, 4694, 4695, 4696, 4697, 4698, 4699]
+  - discount_percent > 100 (invalid)                      : 6
+    item_ids: [4700, 4701, 4702, 4703, 4704, 4705]
+  - quantity == 0                                         : 5
+    item_ids: [4706, 4707, 4708, 4709, 4710]
+  - negative quantity (returns, expected behaviour)       : 150
