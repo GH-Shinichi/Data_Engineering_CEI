@@ -28,7 +28,7 @@ Raw CSV data flows through Bronze (ingestion), Silver (transformation), and Gold
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture.png.png)
 
 ---
 
